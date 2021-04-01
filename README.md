@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Brazilian Enginneer and passionate for programming and technologies.</h3>
 <hr>
 
-- 🌱 I’m currently learning Javascript and excited to start working 
+- 🌱 I’m currently learning Javascript and excited to start working on it.
 - 💬 Feel free to ask me anything on my social medias 👇
 
 [![Instagram Badge](https://img.shields.io/badge/@allysonreeis-follow%20me-blueviolet?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/allysonreeis) 
