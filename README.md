@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Allyson Reis</h1>
+<h3 align="center">I'm a Brazilian Enginneer and passionate for programming and technologies.</h3>
+<hr>
+
+- 🌱 I’m currently learning Javascript and excited to start working 
+- 💬 Feel free to ask me anything on my social medias 👇
+
+[![Instagram Badge](https://img.shields.io/badge/@allysonreeis-follow%20me-blueviolet?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/allysonreeis) 
 
 <!--
 **allysonreeis/allysonreeis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
