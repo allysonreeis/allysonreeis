@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Allyson Reis</h1>
+<h1 align="center">Hi there 👋, I'm Allyson Reis</h1> 
 <h3 align="center">I'm a Brazilian Enginneer and passionate for programming and technologies.</h3>
 <hr>
 
