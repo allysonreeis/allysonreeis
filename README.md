@@ -4,7 +4,6 @@
 
 - 💬 Feel free to contact me on my social medias 👇
 
-[![Instagram Badge](https://img.shields.io/badge/@allysonreeis-follow%20me-blueviolet?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/allysonreeis) 
 [![Static Badge](https://img.shields.io/badge/allysonreeis-follow%20me-blueviolet?logo=linkedin)](https://www.linkedin.com/in/allysonreeis/) 
 
 
